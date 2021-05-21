@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+h1{
+    background-color: rgb(14, 14, 14);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 2rem;
+    color:royalblue;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
